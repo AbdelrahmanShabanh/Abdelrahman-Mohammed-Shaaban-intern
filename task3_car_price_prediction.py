@@ -1,7 +1,7 @@
-# =============================================================================
+
 # TASK 3: Car Price Prediction with Machine Learning
 # Dataset: https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars
-# =============================================================================
+
 
 import pandas as pd
 import numpy as np
