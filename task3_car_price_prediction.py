@@ -181,7 +181,6 @@ ax5.set_title("MAE & RMSE Comparison\n(Lower = Better)", fontweight="bold")
 ax5.set_ylabel("Error (Lakhs)")
 ax5.legend()
 
-
 ax6 = fig.add_subplot(gs[2, 2])
 ax6.hist(y, bins=30, color="#3498DB", alpha=0.8, edgecolor="white")
 ax6.set_title("Selling Price Distribution", fontweight="bold")

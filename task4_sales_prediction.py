@@ -258,7 +258,6 @@ print(f"""
      high-performing platforms (TV & Radio) to maximize Sales.
 """)
 
-
 print("[STEP 8] Sample Sales Forecast")
 sample_data = {
     "TV": [150.0], "Radio": [30.0], "Newspaper": [20.0]
